@@ -11,7 +11,7 @@ const CONFIG = {
   // └─┘┴ ┴└─┘┴└─┘└─┘
 
   // General
-  name: 'John',
+  name: 'Dion',
   imageBackground: false,
   openInNewTab: true,
   twelveHourFormat: false,
@@ -61,7 +61,7 @@ const CONFIG = {
       id: '2',
       name: 'Mail',
       icon: 'mail',
-      link: 'https://mail.protonmail.com/',
+      link: 'https://outlook.office365.com/mail/inbox/id/AAQkAGY0ODcwMTkwLWZlZGQtNDg0NS04NDQ1LWVhYTAyZGRiMTgzNAAQAMGP2zeVsUpCkE1%2F4sMLM5M%3D',
     },
     {
       id: '3',
@@ -71,9 +71,9 @@ const CONFIG = {
     },
     {
       id: '4',
-      name: 'Calendar',
+      name: 'Compass',
       icon: 'calendar',
-      link: 'https://calendar.google.com/calendar/r',
+      link: 'https://perthmodern-wa.compass.education/',
     },
     {
       id: '5',
