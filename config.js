@@ -11,7 +11,7 @@ const CONFIG = {
   // └─┘┴ ┴└─┘┴└─┘└─┘
 
   // General
-  name: 'Dion',
+  name: 'Dion Foundas',
   imageBackground: false,
   openInNewTab: true,
   twelveHourFormat: false,
