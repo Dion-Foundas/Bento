@@ -161,19 +161,19 @@ const CONFIG = {
       id: '2',
       links: [
         {
-          name: 'Linkedin',
-          link: 'https://www.linkedin.com',
+          name: 'Wordle',
+          link: 'https://www.nytimes.com/games/wordle/index.html',
         },
         {
-          name: 'Dribbble',
-          link: 'https://www.dribbble.com',
+          name: 'Education Perfect',
+          link: 'https://app.educationperfect.com/app/dashboard',
         },
         {
-          name: 'Trello',
-          link: 'https://www.trello.com',
+          name: 'Mathspace',
+          link: 'https://mathspace.co/student/',
         },
         {
-          name: 'Slack',
+          name: 'Discord',
           link: 'https://www.slack.com',
         },
       ],
