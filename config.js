@@ -173,8 +173,8 @@ const CONFIG = {
           link: 'https://mathspace.co/student/',
         },
         {
-          name: 'Discord',
-          link: 'https://www.slack.com',
+          name: 'Monkey Type',
+          link: 'https://monkeytype.com/',
         },
       ],
     },
