@@ -147,12 +147,12 @@ const CONFIG = {
           link: 'https://www.instagram.com/',
         },
         {
-          name: 'Oldies',
-          link: 'https://www.youtube.com/watch?v=dQw4w9WgXcQ',
+          name: 'Wordle',
+          link: 'https://www.nytimes.com/games/wordle/index.html',
         },
         {
-          name: 'Rock',
-          link: 'https://www.youtube.com/watch?v=dQw4w9WgXcQ',
+          name: 'Monkey Type',
+          link: 'https://monkeytype.com/',
         },
       ],
     },
@@ -161,8 +161,8 @@ const CONFIG = {
       id: '2',
       links: [
         {
-          name: 'Wordle',
-          link: 'https://www.nytimes.com/games/wordle/index.html',
+          name: 'Connect',
+          link: 'https://connect.det.wa.edu.au/group/students/ui/overview',
         },
         {
           name: 'Education Perfect',
@@ -173,8 +173,8 @@ const CONFIG = {
           link: 'https://mathspace.co/student/',
         },
         {
-          name: 'Monkey Type',
-          link: 'https://monkeytype.com/',
+          name: 'Office Suit',
+          link: 'https://www.office.com/?auth=2&home=1',
         },
       ],
     },
