@@ -135,16 +135,16 @@ const CONFIG = {
   // First Links Container
   firstlistsContainer: [
     {
-      icon: 'music',
+      icon: 'coffee',
       id: '1',
       links: [
         {
-          name: 'Inspirational',
-          link: 'https://www.youtube.com/watch?v=dQw4w9WgXcQ',
+          name: 'Discord',
+          link: 'https://discord.com/channels/@me/786887115324915732',
         },
         {
-          name: 'Classic',
-          link: 'https://www.youtube.com/watch?v=dQw4w9WgXcQ',
+          name: 'Instagram',
+          link: 'https://www.instagram.com/',
         },
         {
           name: 'Oldies',
